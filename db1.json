@@ -1,0 +1,32 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "cusname": "shark",
+      "location": "cuddalore",
+      "paytype": "emi",
+      "pname": "rsthr",
+      "pprice": "fghsf",
+      "pcompany": "hsgh",
+      "paddress": "gfhbgd"
+    },
+    {
+      "id": 2,
+      "cusname": "tamss",
+      "location": "vellore",
+      "paytype": "upi"
+    },
+    {
+      "id": 3,
+      "cusname": "siva",
+      "location": "chennai",
+      "paytype": "emi"
+    },
+    {
+      "id": 4,
+      "cusname": "sandy",
+      "location": "madurai",
+      "paytype": "COD"
+    }
+  ]
+}
